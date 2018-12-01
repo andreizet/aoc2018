@@ -3,7 +3,7 @@ Implemented using Kotlin on JVM.
 
 ### Requirements
 1. [JDK 1.8 (or higher)](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-2. [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=mac)
+2. [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
 3. [Optional] [Brief intro to Kotlin](https://play.kotlinlang.org/koans/Introduction/Hello,%20world!/Task.kt)
 
 ### Structure
